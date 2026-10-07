@@ -1,0 +1,8 @@
+{
+  "name": "Unnati's Boyfriend Application",
+  "description": "A cute, playful, and interactive boyfriend application test for Unnati featuring compatibility questions, playful reactions, and an official digital Boyfriend License.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
